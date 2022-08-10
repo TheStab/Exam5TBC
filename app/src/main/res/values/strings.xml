@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exam5TBC</string>
+    <string name="field_id">Field_id</string>
+    <string name="hint">hint</string>
+    <string name="field_type">field_type</string>
+    <string name="keyboard">keyboard</string>
+    <string name="required">required</string>
+    <string name="is_active">is_active</string>
+    <string name="icon">icon</string>
+    <string name="username">Username</string>
+    <string name="email">Email*</string>
+    <string name="phone">Phone*</string>
+    <string name="full_name">Full Name*</string>
+    <string name="birthday">Birthday</string>
+    <string name="gender">Gender</string>
+</resources>
